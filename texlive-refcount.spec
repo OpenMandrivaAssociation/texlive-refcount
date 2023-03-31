@@ -1,6 +1,6 @@
 Name:		texlive-refcount
 Version:	53164
-Release:	1
+Release:	2
 Summary:	Counter operations with label references
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refcount
