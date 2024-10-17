@@ -3,7 +3,7 @@ Version:	53164
 Release:	2
 Summary:	Counter operations with label references
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refcount
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/refcount
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/refcount.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/refcount.doc.r%{version}.tar.xz
